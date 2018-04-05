@@ -5,3 +5,5 @@ Git tracks changes of files.
 my smart boss
 my stupid boss1
 my stupid boss2
+my stupid boss3
+my stupid boss4
