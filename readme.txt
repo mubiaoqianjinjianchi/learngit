@@ -7,3 +7,4 @@ my stupid boss1new
 my stupid boss2
 my stupid boss3
 my stupid boss4
+haha, this is newline
